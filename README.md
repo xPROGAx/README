@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xPROGAx
-- 👀 I’m interested in wev-design
+- 👀 I’m interested in web-design
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vadim342475@mail.ru
